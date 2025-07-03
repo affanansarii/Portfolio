@@ -68,17 +68,13 @@ export const Projects = () => {
 
                     <div className={styles.links}>
                         <a
-                            href={
-                                "https://github.com/SursaChauhan/Online-Auto-Part-shop"
-                            }
+                            href={"https://github.com/affanansarii/Movix"}
                             className={styles.link}
                         >
                             Github
                         </a>
                         <a
-                            href={
-                                "https://656ece3a7830fc00a35560fa--delicate-eclair-7306e2.netlify.app/"
-                            }
+                            href={"https://movix-jet-alpha.vercel.app/"}
                             className={styles.link}
                         >
                             Demo
